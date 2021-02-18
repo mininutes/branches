@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	academy := "Alterra"
+	academy := "Alterra Academy"
 
 	var reverse string
 	for _, val := range academy {
